@@ -5,4 +5,4 @@ This repository is just a very simple example on how to do automated unit testin
 Requirements:
 1. Netbeans 8.1
 2. Java SE 1.8
-3. Maven
+3. TestNG library
